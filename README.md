@@ -3,4 +3,6 @@
 
 The best way to see your DFK on-chain activity.
 
+**Please use yarn as your package manager when contributing to this project**
+
 [Harmony blockchain API](https://docs.harmony.one/home/developers/api)
